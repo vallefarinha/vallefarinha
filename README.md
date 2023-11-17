@@ -20,6 +20,6 @@
     <img src="https://skillicons.dev/icons?i=figma,xd" />
   </a>
 </p>
-<h2>Let's Connect!</h2>
+<h2>📟 Let's Connect!</h2>
 
   <a href="https://www.linkedin.com/in/gabrielafarinha"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
