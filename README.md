@@ -7,7 +7,7 @@
 <h2>🛠 Skills</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,sass, tailwind, react" />
   </a>
 </p>
 </p>
