@@ -12,6 +12,11 @@
 </p>
 </p>
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,sql,phpmyadmin" />
+  </a>
+</p>
+</p>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
