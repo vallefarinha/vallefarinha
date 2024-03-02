@@ -12,7 +12,7 @@
 </p>
 </p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,sql,phpmyadmin" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
   </a>
 </p>
 </p>
